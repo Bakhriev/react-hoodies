@@ -7,7 +7,7 @@ import styles from "./Header.module.scss"
 function Header() {
 	return (
 		<header className={styles.header}>
-			<div className={styles.logo}>rfc</div>
+			<div className={styles.logo}>Solo</div>
 			<div>
 				<ul className={styles.menu}>
 					<li className={styles.theme}>
